@@ -1,0 +1,2 @@
+# pashcimanchalsoftware
+Paschimanchal Clinic Software
